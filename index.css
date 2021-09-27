@@ -1,0 +1,117 @@
+
+
+.heading{
+   
+    font-size: 18px;
+   
+   
+    box-shadow: 1px 1px 1px rgb(204, 136, 48);
+    height: 50px;
+}
+#heading_1{
+    display: flex;
+    margin-left: 1050px;
+    justify-content: space-between;
+    color: rgb(204, 136, 48);
+}
+.input-group{
+    width: 490px;
+    height: 50px;
+    box-shadow: 2px 2px 2px rgb(204, 136, 48);
+    
+}
+
+
+.heading_2{
+   
+    font-size: 18px;
+   box-shadow: 1px 1px 1px rgb(204, 136, 48);
+   height: 100px;
+}
+#heading_3{
+    display: flex;
+    margin-top: 25px;
+    
+    justify-content: space-between;
+    color: rgb(204, 136, 48);
+}
+
+.heading_4{
+   
+    font-size: 18px;
+   
+   
+   
+   
+   
+}
+#heading_5{
+    display: flex;
+    margin-left: 1020px;
+    justify-content: space-around;
+    color: rgb(204, 136, 48);
+}
+
+
+
+
+
+   
+
+
+  
+ 
+.mayank{
+    display: flex;
+    color: rgb(238, 9, 9);
+    gap: 15px;
+    list-style-type:none;
+    margin-left: 1000px ;
+    text-decoration-style: none;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: -20px;
+}
+
+  
+ 
+  
+  #heading{
+    margin-left: 5.5%;
+    margin-top: 1%;
+}
+
+
+#h1{
+    margin-left: 34%;
+    margin-top: 3%;
+    font-size: 400%;
+}
+
+
+#btn1{
+    margin-left: 1100px;
+    background-color:rgb(204, 136, 48);
+    margin-top: -70px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+#img{
+    background-image: url("Splash screen.png"  )  ;
+    background-repeat: no-repeat;
+    width:750px;
+    height: 500px;
+   
+}
+
+
